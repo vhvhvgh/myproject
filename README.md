@@ -1,2 +1,5 @@
-# myproject
-this is a new project
+#include<stdio.h>
+main()
+{
+printf("hello_word");
+}
